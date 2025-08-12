@@ -19,7 +19,7 @@ Riverpod – State management solution (provider package).
 
 Setup & Installation
 Clone the repository
-git clone https://github.com/your-username/todo-app-riverpod.git  
+https://github.com/Ahmadsaniliman/todoriverpod
 cd todo-app-riverpod
 
 Run the app
